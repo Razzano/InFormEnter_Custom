@@ -7,5 +7,5 @@
 (7) For developers, any edits to files will be applied immediately
 (8) Complete with translations: ar, bn, cs, da, de, el, en, es, fa, fi, fr, he, hi, id, it, ja, ka, ko, ms, nl, pl, pt_BR, ro, sv, ta, th, tr, uk, ur, vi, zh_CN
 
-<img src="https://github.com/Razzano/MY_Images/raw/main/InFormEnter-Custom.png"/>
+<img src="https://raw.githubusercontent.com/Razzano/MY_Images/master/InFormEnter-Custom.png"/>
 
