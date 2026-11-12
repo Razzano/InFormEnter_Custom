@@ -12,3 +12,5 @@
 #### Popup view
 
 ![InFormEnter Custom](https://raw.githubusercontent.com/Razzano/My_Images/main/InFormEnter-Custom.png)
+
+Enlarged icon is the current marker
