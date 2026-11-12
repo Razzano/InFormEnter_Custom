@@ -1,3 +1,5 @@
+# To Install InFormEnter-Custom
+
 1. Create a new folder and name it, for an example, InFormEnter-Custom
 2. Un-zip the contents in this Zip Folder into newly created folder
 3. Recommended placement of folder C:\Users\username\AppData\Local\InFormEnter-Custom or Windows Documents folder
