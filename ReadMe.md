@@ -2,7 +2,7 @@
 
 1. Create a new folder and name it, for an example, InFormEnter-Custom
 2. Un-zip the contents in this Zip Folder into newly created folder
-3. Recommended placement of folder C:\Users\username\AppData\Local\InFormEnter-Custom or Windows Documents folder
+3. Recommended placement of folder C:\Users\username\AppData\Local\ or Windows Documents folder
 4. Go to Browser Extensions Page and enable Developer mode
 5. Click on "Load unpacked" button and navigate to the newly created folder and "Select Folder"
 6. InFormenter+ App will be listed as an Unpacked extension
