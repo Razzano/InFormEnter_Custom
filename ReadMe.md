@@ -6,7 +6,7 @@
 4. Go to Browser Extensions Page and enable Developer mode
 5. Click on "Load unpacked" button and navigate to the newly created folder and "Select Folder"
 6. InFormenter+ App will be listed as an Unpacked extension
-7. For Developers: InFormEnter-Custom is a standalone version. Any modifications must be made to the files within this version, as changes to the original InFormEnter+ files will not affect it. Edits to the custom files take effect immediately.
+7. For Developers: InFormEnter-Custom is a standalone version. Any modifications/edits made to the files within this version, as changes to the original InFormEnter+ files will not have any affect, will have immediate effect.
 8. Complete with translations in: ar, bn, cs, da, de, el, en, es, fa, fi, fr, he, hi, id, it, ja, ka, ko, ms, nl, pl, pt_BR, ro, sv, ta, th, tr, uk, ur, vi, zh_CN
 
 NOTE:
