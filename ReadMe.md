@@ -1,4 +1,4 @@
-# To Install InFormEnter-Custom ![Logo](https://raw.githubusercontent.com/Razzano/My_Images/main/informenter.png) 
+# To Install:  ![Logo](https://raw.githubusercontent.com/Razzano/My_Images/main/informenter.png) InFormEnter-Custom
 
 1. Create a new folder and name it, for an example, InFormEnter-Custom
 2. Un-zip the contents in this Zip Folder into newly created folder
