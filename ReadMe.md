@@ -8,8 +8,6 @@
 6. InFormenter+ App will be listed as an Unpacked extension
 7. Complete with translations in: ar, bn, cs, da, de, el, en, es, fa, fi, fr, he, hi, id, it, ja, ka, ko, ms, nl, pl, pt_BR, ro, sv, ta, th, tr, uk, ur, vi, zh_CN
 
-NOTES:
-
 > [!NOTE]
 > InFormEnter-Custom is a standalone version. Any modifications/edits made to the files within this version, as changes to the original InFormEnter+ files will not have any affect, will have immediate effect.
 
