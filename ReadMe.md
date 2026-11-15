@@ -10,7 +10,7 @@
 
 NOTES:
 
-1. For Developers: InFormEnter-Custom is a standalone version. Any modifications/edits made to the files within this version, as changes to the original InFormEnter+ files will not have any affect, will have immediate effect.
+1. InFormEnter-Custom is a standalone version. Any modifications/edits made to the files within this version, as changes to the original InFormEnter+ files will not have any affect, will have immediate effect.
 
 2. Disable Marker Icon While Retaining Context-Menu Functionality: Edit the first block of content.js to prevent the InFormEnter marker icon from appearing on specified input fields while preserving their right-click context-menu functionality.
 
