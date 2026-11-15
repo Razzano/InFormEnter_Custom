@@ -14,7 +14,7 @@ NOTES:
 
 2. Disable Marker Icon While Retaining Context-Menu Functionality: Edit the first block of content.js to prevent the InFormEnter marker icon from appearing on specified input fields while preserving their right-click context-menu functionality.
 
-**Popup view in dark mode** (Enlarged icon is the current marker)
+### Popup view in dark mode** (Enlarged icon is the current marker)
 
 ![Logo](https://raw.githubusercontent.com/Razzano/My_Images/main/informenter.png)
 
