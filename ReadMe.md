@@ -9,7 +9,8 @@
 7. For developers, any edits to files will be applied immediately
 8. Complete with translations in: ar, bn, cs, da, de, el, en, es, fa, fi, fr, he, hi, id, it, ja, ka, ko, ms, nl, pl, pt_BR, ro, sv, ta, th, tr, uk, ur, vi, zh_CN
 
-NOTE: Disable Marker Icon While Retaining Context-Menu Functionality: Edit the first block of content.js to prevent the InFormEnter marker icon from appearing on specified input fields while preserving their right-click context-menu functionality.
+NOTE:
+Disable Marker Icon While Retaining Context-Menu Functionality: Edit the first block of content.js to prevent the InFormEnter marker icon from appearing on specified input fields while preserving their right-click context-menu functionality.
 
 
 ![Logo](https://raw.githubusercontent.com/Razzano/My_Images/main/informenter.png) **Popup view in dark mode** (Enlarged icon is the current marker)
