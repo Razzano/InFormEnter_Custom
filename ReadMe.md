@@ -12,7 +12,7 @@
 > InFormEnter-Custom is a standalone version. Any modifications/edits made to the files within this version, as changes to the original InFormEnter+ files will not have any affect, will have immediate effect.
 
 > [!TIP]
-> Disable Selected Marker Icon: Edit the first block of content.js to prevent the InFormEnter marker icon from appearing on specified input fields while preserving their right-click context-menu functionality.
+> Disable Marker Icon: Edit the first block of content.js to prevent the InFormEnter marker icon from appearing on specified input fields while preserving their right-click context-menu functionality.
 
 #### Popup view in dark mode (Enlarged icon is the current marker)
 
